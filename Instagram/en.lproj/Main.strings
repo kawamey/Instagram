@@ -1,0 +1,24 @@
+
+/* Class = "UITextField"; placeholder = "メールアドレス"; ObjectID = "0f4-Ch-fpN"; */
+"0f4-Ch-fpN.placeholder" = "メールアドレス";
+
+/* Class = "UITextField"; placeholder = "アカウント作成時は表示名を入力"; ObjectID = "B5F-RB-waP"; */
+"B5F-RB-waP.placeholder" = "アカウント作成時は表示名を入力";
+
+/* Class = "UITabBarItem"; title = "ホーム"; ObjectID = "BNe-wM-69t"; */
+"BNe-wM-69t.title" = "ホーム";
+
+/* Class = "UIButton"; normalTitle = "アカウント作成"; ObjectID = "Mrn-G7-Vs3"; */
+"Mrn-G7-Vs3.normalTitle" = "アカウント作成";
+
+/* Class = "UITextField"; placeholder = "パスワード"; ObjectID = "iCX-1Z-RPE"; */
+"iCX-1Z-RPE.placeholder" = "パスワード";
+
+/* Class = "UITabBarItem"; title = "設定"; ObjectID = "shN-g6-6Ny"; */
+"shN-g6-6Ny.title" = "設定";
+
+/* Class = "UIButton"; normalTitle = "ログイン"; ObjectID = "uQU-of-gk1"; */
+"uQU-of-gk1.normalTitle" = "ログイン";
+
+/* Class = "UITabBarItem"; title = "投稿"; ObjectID = "xYk-ZU-Jt9"; */
+"xYk-ZU-Jt9.title" = "投稿";
